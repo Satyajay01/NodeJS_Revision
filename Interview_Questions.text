@@ -1,0 +1,47 @@
+Q(1) What is Nodejs?
+Ans: Node.js is a runtime environment that allows you to run JavaScript code on the server-side. Traditionally, JavaScript was used only in browsers for client-side scripting, but Node.js enables developers to use JavaScript for building server-side applications as well.
+
+Q(2) what is package?
+Ans: package is a collection of files or modules grouped together to provide specific functionality in a project. It helps organize code, share reusable components, and manage dependencies. Example: axios,Mongoose,Express,cat-me
+
+Q(3) What is NPM?
+Ans: NPM stands for *Node Package Manager*, and it is a tool that comes with Node.js. It is used to manage JavaScript packages (libraries or modules) and helps developers share and reuse code. NPM is a key part of the Node.js ecosystem.
+
+Q(4) What is package.json?
+Ans: package.json is a configuration file in a Node.js project that contains metadata about the project, such as its name, version, dependencies, and scripts. It is necessary for managing the project’s settings, dependencies, and information.
+
+Q(4) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

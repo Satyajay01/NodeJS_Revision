@@ -10,7 +10,10 @@ Ans: NPM stands for *Node Package Manager*, and it is a tool that comes with Nod
 Q(4) What is package.json?
 Ans: package.json is a configuration file in a Node.js project that contains metadata about the project, such as its name, version, dependencies, and scripts. It is necessary for managing the project’s settings, dependencies, and information.
 
-Q(4) 
+Q(5) What is Express?
+Ans: Express is a fast, lightweight, and flexible web application framework for **Node.js**. It simplifies building web servers and APIs by providing tools to handle routes, middleware, HTTP requests, and responses efficiently. It's widely used for creating RESTful APIs and web applications.
+
+
 
 
 

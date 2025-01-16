@@ -13,7 +13,8 @@ Ans: package.json is a configuration file in a Node.js project that contains met
 Q(5) What is Express?
 Ans: Express is a fast, lightweight, and flexible web application framework for **Node.js**. It simplifies building web servers and APIs by providing tools to handle routes, middleware, HTTP requests, and responses efficiently. It's widely used for creating RESTful APIs and web applications.
 
-
+Q(6) What is ejs?
+Ans: EJS (Embedded JavaScript) is a templating engine for Node.js that helps generate dynamic HTML by embedding JavaScript into templates.
 
 
 

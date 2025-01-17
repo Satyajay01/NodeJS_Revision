@@ -16,8 +16,11 @@ Ans: Express is a fast, lightweight, and flexible web application framework for 
 Q(6) What is ejs?
 Ans: EJS (Embedded JavaScript) is a templating engine for Node.js that helps generate dynamic HTML by embedding JavaScript into templates.
 
-
-
+Q(7) What is Middleware?
+Ans: Middleware in Node.js (with Express) are functions that process requests and responses during the request-response cycle. They can handle tasks like logging, authentication, request parsing, or error handling, and use `next()` to pass control to the next middleware or route. there is mainly 3 type of Built-in Middleware, Custom Middleware Third-Party Middleware
+    Custom Middleware: Middleware created for specific use cases, tailored to the needs of the application.
+    Built-in Middleware: Provided directly by Node.js
+    Third-Party Middleware: Middleware provided by third-party libraries for added functionality. 
 
 
 

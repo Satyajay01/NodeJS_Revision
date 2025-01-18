@@ -22,6 +22,9 @@ Ans: Middleware in Node.js (with Express) are functions that process requests an
     Built-in Middleware: Provided directly by Node.js
     Third-Party Middleware: Middleware provided by third-party libraries for added functionality. 
 
+Q(8) What is MongoDB?
+Ans: MongoDB is a NoSQL database for storing data in JSON format.
+
 
 
 
